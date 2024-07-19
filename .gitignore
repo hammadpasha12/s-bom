@@ -1,0 +1,9 @@
+venv/
+combiner.py
+components_raw_data.csv
+components_raw_data1.csv
+components_raw_data2.csv
+json_parse.py
+main.py
+threadings.py
+Sample_Telematics_Files - New Version -Provided by Teams/
